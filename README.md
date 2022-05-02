@@ -10,7 +10,7 @@ visionary, dreamer to whom they turn to obtain solutions that others have not be
 * ✉️  You can contact me at [info@tangram.page](mailto:info@tangram.page)
 * 🤝  I'm open to collaborating on self-managed social assistance progjects
 * ⚡  I am interested in cooking, alternative life. I hate technology
-* <img src="./icon/azure.svg" width="18" height="18" alt="MS-Azure"> MS-Azure oriented
+* <img src="./icon/azure.svg" width="16" height="16" alt="MS-Azure">  MS-Azure oriented
 
 ### Skills
 
