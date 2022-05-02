@@ -1,4 +1,4 @@
-Hi 👋 from maxAlone
+Hi 🦑 from maxAlone
 =========================
 
 unforgiving alien animal with a human heart
@@ -6,7 +6,7 @@ unforgiving alien animal with a human heart
 
 visionary, dreamer to whom they turn to obtain solutions that others have not been able to develop
 
-* 🌍  Now in Rome but homeless and wandering
+* 🌍  Currently in Rome but well known as homeless and wandering
 * ✉️  You can contact me at [info@tangram.page](mailto:info@tangram.page)
 * 🤝  I'm open to collaborating on self-managed social assistance progjects
 * ⚡  I am interested in cooking, alternative life. I hate technology
