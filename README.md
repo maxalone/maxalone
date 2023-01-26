@@ -11,6 +11,7 @@ visionary, dreamer to whom they turn to obtain solutions that others have not be
 * 🤝  I'm open to collaborating on self-managed social assistance progjects
 * ⚡  I am interested in cooking, alternative life. I hate technology
 * <img src="./icon/azure.svg" width="16" height="16" alt="MS-Azure">  MS-Azure oriented
+* :art: from '22 Decembre I am a student of the Academy of Fine Arts
 
 ### Skills
 
